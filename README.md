@@ -1,0 +1,1 @@
+# go_generic-demo
